@@ -1,0 +1,13 @@
+5+7
+x<-5+7
+y<-x-3
+c(1,1,9,3,14)
+z<-c(1,1,9,3,14)
+length(x);length(y);length(z)
+?c
+c(z,555,z)
+c(x,y,z)
+z*2+10
+raiz<-sqrt(z-1)
+div<-z/raiz 
+c(1,2,3,4)+c(0,10)
